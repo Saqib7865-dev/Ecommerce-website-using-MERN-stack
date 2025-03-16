@@ -16,7 +16,7 @@ const ProductCards = ({ products }) => {
             </Link>
             <div className="hover:block absolute top-3 right-3">
               <button>
-                <i className="ri-shopping-cart-line bg-primary p-1.5 text-white hover:bg-primary-dark"></i>
+                <i className="ri-shopping-cart-line bg-primary !p-1.5 text-white hover:bg-primary-dark"></i>
               </button>
             </div>
           </div>
